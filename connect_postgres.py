@@ -22,10 +22,3 @@ def get_connection():
         password=PG_PASSWORD
     )
 
-
-
-
-
-# except Exception as e:
-#     print("❌ Error while connecting:", e)
-
